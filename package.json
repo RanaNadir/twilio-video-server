@@ -1,5 +1,5 @@
 {
-  "name": "video-access-token-server-node",
+  "name": "twilio-video-server",
   "version": "1.0.0",
   "description": "Video Access Token Server for Node.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/TwilioDevEd/video-access-token-server-node"
+    "url": "github.com/RanaNadir/twilio-video-server"
   },
   "keywords": [
     "twilio",
